@@ -35,6 +35,7 @@ ohmyzsh_users:
     home: /root
 
 ohmyzsh_plugins: git colored-man-page colorize extract history composer zsh-syntax-highlighting
+ohmyzsh_theme: bira
 ```
 
 Example Playbook
