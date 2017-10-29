@@ -34,7 +34,7 @@ ohmyzsh_users:
     usergroup: root
     home: /root
 
-ohmyzsh_plugins: git colored-man-page colorize extract history npm symfony2 httpie zsh-syntax-highlighting
+ohmyzsh_plugins: git colored-man-page colorize extract history composer zsh-syntax-highlighting
 ```
 
 Example Playbook
@@ -56,6 +56,7 @@ ohmyzsh_users:
     usergroup: me
     home: /home/me
 ohmyzsh_plugins: git colored-man-page colorize extract history zsh-syntax-highlighting
+ohmyzsh_theme: bira
 ```
 
 Tags
