@@ -2,11 +2,10 @@
 
 # Choose user who you want to install oh my zsh for
 ohmyzsh_users:
-  - username: ops
-    usergroup: admin
-    home: /home/ops
-  - username: root
-    usergroup: root
-    home: /root
+  - username: franck
+    usergroup: franck
+    home: /home/franck
+  
 
-ohmyzsh_plugins: git colored-man-page colorize extract history npm symfony2 httpie zsh-syntax-highlighting
+ohmyzsh_plugins: git colored-man-page colorize extract history composer zsh-syntax-highlighting
+ohmyzsh_theme: bira
